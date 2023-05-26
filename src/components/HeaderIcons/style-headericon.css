@@ -1,0 +1,14 @@
+.iconsMenuWrapper {
+  display: flex;
+  gap: 2rem;
+}
+
+.button-icons {
+  width: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.125rem;
+  cursor: pointer;
+}

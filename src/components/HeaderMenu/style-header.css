@@ -21,18 +21,3 @@ li {
   color: #f84e2b;
   border-bottom: 2px solid #f84e2b;
 }
-
-.iconsMenuWrapper {
-  display: flex;
-  gap: 2rem;
-}
-
-.button-icons {
-  width: 2.5rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-size: 1.125rem;
-  cursor: pointer;
-}
