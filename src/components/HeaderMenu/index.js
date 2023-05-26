@@ -1,4 +1,4 @@
-import "../header-menu/style-header.css";
+import "../HeaderMenu/style.css";
 
 const menuLinksText = ["Categorias", "Minha Estante", "Favoritos"];
 

@@ -1,16 +1,10 @@
 import "./App.css";
-import HeaderIcon from "./components/HeaderIcons/HeaderIcon";
-import HeaderMenu from "./components/header-menu/header";
-import Logo from "./components/logo/logo";
+import HeaderComponent from "./components/Header/index";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Logo></Logo>
-        <HeaderMenu></HeaderMenu>
-        <HeaderIcon></HeaderIcon>
-      </header>
+      <HeaderComponent />
     </div>
   );
 }

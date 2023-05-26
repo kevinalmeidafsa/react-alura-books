@@ -1,4 +1,4 @@
-import "../HeaderIcons/style-headericon.css";
+import "../HeaderIcons/style.css";
 import perfil from "../../imagens/perfil.svg";
 import bag from "../../imagens/sacola.svg";
 
