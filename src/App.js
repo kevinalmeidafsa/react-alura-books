@@ -1,11 +1,18 @@
-import "./App.css";
 import HeaderComponent from "./components/Header/index";
+import styled from "styled-components";
+import SearchInput from "./components/Search-input";
+
+const AppContainer = styled.div`
+  width: 100vw;
+  height: 100vh;
+`;
 
 function App() {
   return (
-    <div className="App">
+    <AppContainer>
       <HeaderComponent />
-    </div>
+      <SearchInput />
+    </AppContainer>
   );
 }
 
